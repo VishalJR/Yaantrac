@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jest": "^29.4.3",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.28.0",
+    "typescript": "^4.9.5"
+  },
+  "name": "yaantrac_nodejs",
+  "description": "xcsc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "codecommit::ap-south-1://Yaantrac_NodeJs"
+  },
+  "author": "",
+  "license": "ISC"
+}
